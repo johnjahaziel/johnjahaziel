@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @johnjahaziel
-- 👀 I’m interested in App Developing in Flutter Domain...
-- 🌱 I’m currently learning Flutter and Three JS...
-- 📫 How to reach me johnjahaziel00@gmail.com...
+- 👀 I’m Juniot Flutter Developer.
+- 📫 How to reach me johnjahaziel00@gmail.com
 
 <!---
 johnjahaziel/johnjahaziel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
