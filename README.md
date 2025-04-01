@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnjahaziel
-- 👀 I’m Junior Flutter Developer.
+- 👀 Junior Flutter Developer.
 - 📫 How to reach me johnjahaziel00@gmail.com
 
 <!---
